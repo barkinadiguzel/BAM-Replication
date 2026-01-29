@@ -1,5 +1,4 @@
 # BAM hyperparameters
-
 REDUCTION_RATIO = 16    
 DILATION = 4            
 
